@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MangoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MangoApplication.class, args);
+		SpringApplication.run(MangoApplication.class, args);//
 	}
 
 }
